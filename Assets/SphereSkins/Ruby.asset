@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dddf43640983d643ac672c44609ec71, type: 3}
+  m_Name: Ruby
+  m_EditorClassIdentifier: 
+  skinName: Ruby
+  rarity: 2
+  skinPrice: 75
+  skinSprite: {fileID: 21300000, guid: b0311a31bd5ad604c8df59beecf6b9c1, type: 3}
+  skinMaterial: {fileID: 2100000, guid: 73b396defda80ff49be3a9610804c575, type: 2}
+  isOwned: 0
+  skinText:
+    ComponentName: Skin Text
+    TextField: {fileID: 0}
+    TextAmount: 
+    TextPrefix: 
+    TextSuffix: 

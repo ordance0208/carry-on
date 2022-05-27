@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dddf43640983d643ac672c44609ec71, type: 3}
+  m_Name: Nails
+  m_EditorClassIdentifier: 
+  skinName: Nails
+  rarity: 0
+  skinPrice: 35
+  skinSprite: {fileID: 21300000, guid: f9b1db914ea5dcd4c97384f7f47d4a82, type: 3}
+  skinMaterial: {fileID: 2100000, guid: a8eb5ccf5d603e440b12b01811423c28, type: 2}
+  isOwned: 1
+  skinText:
+    ComponentName: Skin Text
+    TextField: {fileID: 0}
+    TextAmount: OWNED
+    TextPrefix: 
+    TextSuffix: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dddf43640983d643ac672c44609ec71, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  skinName: Default
+  rarity: 3
+  skinPrice: 0
+  skinSprite: {fileID: 21300000, guid: b6cfd423973461c4b93463a80c3ee265, type: 3}
+  skinMaterial: {fileID: 2100000, guid: 51e3729d943aadf46b629bc39ce580aa, type: 2}
+  isOwned: 1
+  skinText:
+    ComponentName: 
+    TextField: {fileID: 0}
+    TextAmount: 
+    TextPrefix: 
+    TextSuffix: 

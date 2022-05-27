@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dddf43640983d643ac672c44609ec71, type: 3}
+  m_Name: Camo
+  m_EditorClassIdentifier: 
+  skinName: Camo
+  rarity: 0
+  skinPrice: 35
+  skinSprite: {fileID: 21300000, guid: 2c5a4b6ae0fc926499c25d94b3001038, type: 3}
+  skinMaterial: {fileID: 2100000, guid: ee00aef324f8f50488fab87c7ce9d459, type: 2}
+  isOwned: 1
+  skinText:
+    ComponentName: Skin Text
+    TextField: {fileID: 0}
+    TextAmount: OWNED
+    TextPrefix: 
+    TextSuffix: 
